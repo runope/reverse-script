@@ -1,0 +1,2 @@
+python中对应 IDA的/python/文件夹中的类容，直接在IDAPython中以函数调用的方法使用
+plugins对应IDA的/plugins/文件夹，里面使用代理链接到myCustomTool文件夹中，实际的插件开发在myCustomTool文件夹中
